@@ -6,7 +6,7 @@
  * @maintainer  Gary Barclay <gary@barclay.works> (Community Fork)
  * @copyright   2019 Analytics for Joomla, 2024+ Barclay.works
  * @license     GNU General Public License version 2 or later
- * @version     0.8
+ * @version     0.7
  */
 
 defined('_JEXEC') or die('Restricted access');
